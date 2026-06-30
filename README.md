@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Abhay8777/code-on-leet/tree/master/0930-binary-subarrays-with-sum) |
 | [2953-count-complete-substrings](https://github.com/Abhay8777/code-on-leet/tree/master/2953-count-complete-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay8777/code-on-leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhay8777/code-on-leet/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhay8777/code-on-leet/tree/master/0930-binary-subarrays-with-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay8777/code-on-leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhay8777/code-on-leet/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
 |  |
 | ------- |
