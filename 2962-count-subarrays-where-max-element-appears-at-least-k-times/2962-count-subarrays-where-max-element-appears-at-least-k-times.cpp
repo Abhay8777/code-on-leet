@@ -5,16 +5,15 @@ public:
         int maxVal = *max_element(nums.begin(), nums.end());
         long long ans = 0;
         int count = 0;
-        int l = 0;
-
-        for (int r = 0; r < n; r++) {
-            if (nums[r] == maxVal) count++;
-
-            while (count >= k) {
-                ans += (n - r);  
-                if (nums[l] == maxVal) count--;
-                l++;
+        int i =0, j = 0;
+        while(j<n){
+            if(nums[j] == maxVal) count++;
+            while(count>=k){
+                ans+=n-j;
+                if(nums[i]==maxVal) count--;
+                i++;
             }
+            j++;
         }
         return ans;
     }
