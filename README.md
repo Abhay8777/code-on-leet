@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhay8777/code-on-leet/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Abhay8777/code-on-leet/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhay8777/code-on-leet/tree/master/3620-network-recovery-pathways) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhay8777/code-on-leet/tree/master/1208-get-equal-substrings-within-budget) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Abhay8777/code-on-leet/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
+| [3620-network-recovery-pathways](https://github.com/Abhay8777/code-on-leet/tree/master/3620-network-recovery-pathways) |
 ## Counting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhay8777/code-on-leet/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -90,8 +93,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhay8777/code-on-leet/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhay8777/code-on-leet/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Abhay8777/code-on-leet/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Abhay8777/code-on-leet/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
