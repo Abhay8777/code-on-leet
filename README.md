@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Abhay8777/code-on-leet/tree/master/0058-length-of-last-word) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhay8777/code-on-leet/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhay8777/code-on-leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2953-count-complete-substrings](https://github.com/Abhay8777/code-on-leet/tree/master/2953-count-complete-substrings) |
