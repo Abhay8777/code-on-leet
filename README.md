@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Abhay8777/code-on-leet/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhay8777/code-on-leet/tree/master/1301-number-of-paths-with-max-score) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abhay8777/code-on-leet/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Abhay8777/code-on-leet/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhay8777/code-on-leet/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay8777/code-on-leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Abhay8777/code-on-leet/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/Abhay8777/code-on-leet/tree/master/1288-remove-covered-intervals) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Abhay8777/code-on-leet/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Queue
 |  |
 | ------- |
