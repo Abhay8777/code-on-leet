@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2953-count-complete-substrings](https://github.com/Abhay8777/code-on-leet/tree/master/2953-count-complete-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay8777/code-on-leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhay8777/code-on-leet/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Abhay8777/code-on-leet/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhay8777/code-on-leet/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 ## Array
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay8777/code-on-leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhay8777/code-on-leet/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Abhay8777/code-on-leet/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Abhay8777/code-on-leet/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhay8777/code-on-leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
