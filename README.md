@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Abhay8777/code-on-leet/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Abhay8777/code-on-leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhay8777/code-on-leet/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhay8777/code-on-leet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhay8777/code-on-leet/tree/master/1208-get-equal-substrings-within-budget) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Abhay8777/code-on-leet/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Abhay8777/code-on-leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhay8777/code-on-leet/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhay8777/code-on-leet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1288-remove-covered-intervals](https://github.com/Abhay8777/code-on-leet/tree/master/1288-remove-covered-intervals) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Abhay8777/code-on-leet/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Abhay8777/code-on-leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhay8777/code-on-leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhay8777/code-on-leet/tree/master/1208-get-equal-substrings-within-budget) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Abhay8777/code-on-leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhay8777/code-on-leet/tree/master/1208-get-equal-substrings-within-budget) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Abhay8777/code-on-leet/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Abhay8777/code-on-leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abhay8777/code-on-leet/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -160,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Abhay8777/code-on-leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abhay8777/code-on-leet/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
@@ -168,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Abhay8777/code-on-leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abhay8777/code-on-leet/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Math
 |  |
