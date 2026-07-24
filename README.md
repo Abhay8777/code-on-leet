@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhay8777/code-on-leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abhay8777/code-on-leet/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhay8777/code-on-leet/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2401-longest-nice-subarray](https://github.com/Abhay8777/code-on-leet/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhay8777/code-on-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Abhay8777/code-on-leet/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abhay8777/code-on-leet/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Abhay8777/code-on-leet/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhay8777/code-on-leet/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2401-longest-nice-subarray](https://github.com/Abhay8777/code-on-leet/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhay8777/code-on-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Abhay8777/code-on-leet/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Abhay8777/code-on-leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhay8777/code-on-leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhay8777/code-on-leet/tree/master/1208-get-equal-substrings-within-budget) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Abhay8777/code-on-leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhay8777/code-on-leet/tree/master/1208-get-equal-substrings-within-budget) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Abhay8777/code-on-leet/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
