@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhay8777/code-on-leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Abhay8777/code-on-leet/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2953-count-complete-substrings](https://github.com/Abhay8777/code-on-leet/tree/master/2953-count-complete-substrings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay8777/code-on-leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhay8777/code-on-leet/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay8777/code-on-leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhay8777/code-on-leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhay8777/code-on-leet/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhay8777/code-on-leet/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Abhay8777/code-on-leet/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay8777/code-on-leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
