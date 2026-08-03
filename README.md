@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Abhay8777/code-on-leet/tree/master/0567-permutation-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhay8777/code-on-leet/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhay8777/code-on-leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Abhay8777/code-on-leet/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Abhay8777/code-on-leet/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2953-count-complete-substrings](https://github.com/Abhay8777/code-on-leet/tree/master/2953-count-complete-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay8777/code-on-leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay8777/code-on-leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay8777/code-on-leet/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Abhay8777/code-on-leet/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Abhay8777/code-on-leet/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhay8777/code-on-leet/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2401-longest-nice-subarray](https://github.com/Abhay8777/code-on-leet/tree/master/2401-longest-nice-subarray) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Abhay8777/code-on-leet/tree/master/0567-permutation-in-string) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Abhay8777/code-on-leet/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
