@@ -334,8 +334,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhay8777/code-on-leet/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Abhay8777/code-on-leet/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhay8777/code-on-leet/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Abhay8777/code-on-leet/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
