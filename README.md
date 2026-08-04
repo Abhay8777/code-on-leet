@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhay8777/code-on-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Abhay8777/code-on-leet/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Abhay8777/code-on-leet/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/Abhay8777/code-on-leet/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Abhay8777/code-on-leet/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2953-count-complete-substrings](https://github.com/Abhay8777/code-on-leet/tree/master/2953-count-complete-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay8777/code-on-leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0993-cousins-in-binary-tree) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/Abhay8777/code-on-leet/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abhay8777/code-on-leet/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay8777/code-on-leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0993-cousins-in-binary-tree) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/Abhay8777/code-on-leet/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abhay8777/code-on-leet/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay8777/code-on-leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0993-cousins-in-binary-tree) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/Abhay8777/code-on-leet/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay8777/code-on-leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0993-cousins-in-binary-tree) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/Abhay8777/code-on-leet/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Stack
 |  |
 | ------- |
