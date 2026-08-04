@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Abhay8777/code-on-leet/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhay8777/code-on-leet/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Abhay8777/code-on-leet/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhay8777/code-on-leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Abhay8777/code-on-leet/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhay8777/code-on-leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Abhay8777/code-on-leet/tree/master/3620-network-recovery-pathways) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Abhay8777/code-on-leet/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay8777/code-on-leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Abhay8777/code-on-leet/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
