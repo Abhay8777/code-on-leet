@@ -12,10 +12,10 @@ public:
         for(int x =1;x<=min(2*M,n-idx);x++){
             stones += piles[idx+x-1];
             if(person == 1){
-                result = max(result, stones+solveforAlice(piles,0,x+idx,max(M,x)));
+                result = max(result, stones+solveforAlice(piles,0,x+idx,max(M,x)));//alice
             }
             else{
-                result = min(result, solveforAlice(piles,1,x+idx,max(M,x)));
+                result = min(result, solveforAlice(piles,1,x+idx,max(M,x)));//bob
             }
         }
         return  t[person][idx][M]=result;
