@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2953-count-complete-substrings](https://github.com/Abhay8777/code-on-leet/tree/master/2953-count-complete-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay8777/code-on-leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhay8777/code-on-leet/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhay8777/code-on-leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhay8777/code-on-leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Abhay8777/code-on-leet/tree/master/3731-find-missing-elements) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay8777/code-on-leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhay8777/code-on-leet/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhay8777/code-on-leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Abhay8777/code-on-leet/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3208-alternating-groups-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Abhay8777/code-on-leet/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Abhay8777/code-on-leet/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay8777/code-on-leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Abhay8777/code-on-leet/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhay8777/code-on-leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhay8777/code-on-leet/tree/master/3536-maximum-product-of-two-digits) |
