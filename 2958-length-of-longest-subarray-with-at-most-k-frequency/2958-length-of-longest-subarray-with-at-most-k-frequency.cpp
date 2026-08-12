@@ -25,7 +25,5 @@ public:
             j++;
         }
         return result;
-
-
     }
 };
