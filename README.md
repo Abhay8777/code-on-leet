@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay8777/code-on-leet/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Abhay8777/code-on-leet/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Abhay8777/code-on-leet/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2029-stone-game-ix](https://github.com/Abhay8777/code-on-leet/tree/master/2029-stone-game-ix) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhay8777/code-on-leet/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Abhay8777/code-on-leet/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay8777/code-on-leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhay8777/code-on-leet/tree/master/0992-subarrays-with-k-different-integers) |
+| [2029-stone-game-ix](https://github.com/Abhay8777/code-on-leet/tree/master/2029-stone-game-ix) |
 | [2351-first-letter-to-appear-twice](https://github.com/Abhay8777/code-on-leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhay8777/code-on-leet/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Abhay8777/code-on-leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhay8777/code-on-leet/tree/master/1510-stone-game-iv) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay8777/code-on-leet/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/Abhay8777/code-on-leet/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay8777/code-on-leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhay8777/code-on-leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhay8777/code-on-leet/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Abhay8777/code-on-leet/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [2029-stone-game-ix](https://github.com/Abhay8777/code-on-leet/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay8777/code-on-leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay8777/code-on-leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Abhay8777/code-on-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhay8777/code-on-leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhay8777/code-on-leet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Abhay8777/code-on-leet/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
@@ -428,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Abhay8777/code-on-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhay8777/code-on-leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhay8777/code-on-leet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Abhay8777/code-on-leet/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -436,10 +442,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Abhay8777/code-on-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhay8777/code-on-leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhay8777/code-on-leet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Abhay8777/code-on-leet/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Abhay8777/code-on-leet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Abhay8777/code-on-leet/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
