@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay8777/code-on-leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/Abhay8777/code-on-leet/tree/master/1695-maximum-erasure-value) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay8777/code-on-leet/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/Abhay8777/code-on-leet/tree/master/1872-stone-game-viii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Abhay8777/code-on-leet/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Abhay8777/code-on-leet/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2029-stone-game-ix](https://github.com/Abhay8777/code-on-leet/tree/master/2029-stone-game-ix) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Abhay8777/code-on-leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/Abhay8777/code-on-leet/tree/master/1140-stone-game-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhay8777/code-on-leet/tree/master/1208-get-equal-substrings-within-budget) |
+| [1872-stone-game-viii](https://github.com/Abhay8777/code-on-leet/tree/master/1872-stone-game-viii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Abhay8777/code-on-leet/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Abhay8777/code-on-leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhay8777/code-on-leet/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Abhay8777/code-on-leet/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay8777/code-on-leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhay8777/code-on-leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Abhay8777/code-on-leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhay8777/code-on-leet/tree/master/1510-stone-game-iv) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay8777/code-on-leet/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/Abhay8777/code-on-leet/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Abhay8777/code-on-leet/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay8777/code-on-leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhay8777/code-on-leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Abhay8777/code-on-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhay8777/code-on-leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhay8777/code-on-leet/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Abhay8777/code-on-leet/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Abhay8777/code-on-leet/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -447,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Abhay8777/code-on-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhay8777/code-on-leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhay8777/code-on-leet/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Abhay8777/code-on-leet/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Abhay8777/code-on-leet/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -456,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Abhay8777/code-on-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhay8777/code-on-leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhay8777/code-on-leet/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Abhay8777/code-on-leet/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Abhay8777/code-on-leet/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
