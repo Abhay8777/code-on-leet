@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Abhay8777/code-on-leet/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Abhay8777/code-on-leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Abhay8777/code-on-leet/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhay8777/code-on-leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2953-count-complete-substrings](https://github.com/Abhay8777/code-on-leet/tree/master/2953-count-complete-substrings) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhay8777/code-on-leet/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay8777/code-on-leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/Abhay8777/code-on-leet/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2762-continuous-subarrays](https://github.com/Abhay8777/code-on-leet/tree/master/2762-continuous-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Abhay8777/code-on-leet/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhay8777/code-on-leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2953-count-complete-substrings](https://github.com/Abhay8777/code-on-leet/tree/master/2953-count-complete-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay8777/code-on-leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhay8777/code-on-leet/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
