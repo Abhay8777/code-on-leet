@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhay8777/code-on-leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/Abhay8777/code-on-leet/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/Abhay8777/code-on-leet/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Abhay8777/code-on-leet/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay8777/code-on-leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Abhay8777/code-on-leet/tree/master/0567-permutation-in-string) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Abhay8777/code-on-leet/tree/master/0115-distinct-subsequences) |
 | [0337-house-robber-iii](https://github.com/Abhay8777/code-on-leet/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/Abhay8777/code-on-leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhay8777/code-on-leet/tree/master/0877-stone-game) |
