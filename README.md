@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Abhay8777/code-on-leet/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0993-cousins-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhay8777/code-on-leet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Abhay8777/code-on-leet/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abhay8777/code-on-leet/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Abhay8777/code-on-leet/tree/master/3310-remove-methods-from-project) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Abhay8777/code-on-leet/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0993-cousins-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhay8777/code-on-leet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Abhay8777/code-on-leet/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Abhay8777/code-on-leet/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/0993-cousins-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhay8777/code-on-leet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Abhay8777/code-on-leet/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Abhay8777/code-on-leet/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Stack
