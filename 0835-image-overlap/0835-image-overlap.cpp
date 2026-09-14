@@ -23,7 +23,6 @@ public:
         for(int rowOff = -n+1; rowOff<n; rowOff++){
             for(int colOff= -n+1; colOff<n; colOff++){
                 int count = countOverlaps(A, B, rowOff, colOff);
-
                 maxOverlap = max(maxOverlap, count);
             }
         }
