@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Abhay8777/code-on-leet/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhay8777/code-on-leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhay8777/code-on-leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay8777/code-on-leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Abhay8777/code-on-leet/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Abhay8777/code-on-leet/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2351-first-letter-to-appear-twice](https://github.com/Abhay8777/code-on-leet/tree/master/2351-first-letter-to-appear-twice) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhay8777/code-on-leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abhay8777/code-on-leet/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhay8777/code-on-leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay8777/code-on-leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Abhay8777/code-on-leet/tree/master/1695-maximum-erasure-value) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhay8777/code-on-leet/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Abhay8777/code-on-leet/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abhay8777/code-on-leet/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay8777/code-on-leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhay8777/code-on-leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay8777/code-on-leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Abhay8777/code-on-leet/tree/master/1695-maximum-erasure-value) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay8777/code-on-leet/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/Abhay8777/code-on-leet/tree/master/1872-stone-game-viii) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Abhay8777/code-on-leet/tree/master/1140-stone-game-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhay8777/code-on-leet/tree/master/1208-get-equal-substrings-within-budget) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abhay8777/code-on-leet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay8777/code-on-leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Abhay8777/code-on-leet/tree/master/1872-stone-game-viii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Abhay8777/code-on-leet/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Abhay8777/code-on-leet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhay8777/code-on-leet/tree/master/1208-get-equal-substrings-within-budget) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhay8777/code-on-leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay8777/code-on-leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhay8777/code-on-leet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhay8777/code-on-leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhay8777/code-on-leet/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
