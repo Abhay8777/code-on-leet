@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhay8777/code-on-leet/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay8777/code-on-leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Abhay8777/code-on-leet/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay8777/code-on-leet/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Abhay8777/code-on-leet/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay8777/code-on-leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhay8777/code-on-leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Abhay8777/code-on-leet/tree/master/0115-distinct-subsequences) |
 | [0337-house-robber-iii](https://github.com/Abhay8777/code-on-leet/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/Abhay8777/code-on-leet/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay8777/code-on-leet/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Abhay8777/code-on-leet/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhay8777/code-on-leet/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhay8777/code-on-leet/tree/master/1301-number-of-paths-with-max-score) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Abhay8777/code-on-leet/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay8777/code-on-leet/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Abhay8777/code-on-leet/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhay8777/code-on-leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/Abhay8777/code-on-leet/tree/master/2029-stone-game-ix) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhay8777/code-on-leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay8777/code-on-leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay8777/code-on-leet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay8777/code-on-leet/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Abhay8777/code-on-leet/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay8777/code-on-leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhay8777/code-on-leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhay8777/code-on-leet/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhay8777/code-on-leet/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay8777/code-on-leet/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay8777/code-on-leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhay8777/code-on-leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay8777/code-on-leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
