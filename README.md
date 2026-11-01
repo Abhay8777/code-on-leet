@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhay8777/code-on-leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhay8777/code-on-leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhay8777/code-on-leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Abhay8777/code-on-leet/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhay8777/code-on-leet/tree/master/0560-subarray-sum-equals-k) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Abhay8777/code-on-leet/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhay8777/code-on-leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Abhay8777/code-on-leet/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Abhay8777/code-on-leet/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Abhay8777/code-on-leet/tree/master/0877-stone-game) |
